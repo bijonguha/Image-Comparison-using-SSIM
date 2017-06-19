@@ -16,3 +16,5 @@ where μx, μy, σx,σy, and σxy are the local means, standard deviations, and 
 
 ![Figure 3]
 (https://image.ibb.co/dCu7v5/1_3.jpg)
+
+[![Front End Developer Desk](images/desk.png)](https://dribbble.com/shots/3577639-Isometric-Developer-Desk)
