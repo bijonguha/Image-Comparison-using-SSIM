@@ -4,7 +4,7 @@ Compairing two images using SSIM and MSE
 ## Algorithms
 The Structural Similarity (SSIM) Index quality assessment index is based on the computation of three terms, namely the luminance term, the contrast term and the structural term. The overall index is a multiplicative combination of the three terms.
 
-![Figure 1]
+![alt Figure 1]
 (https://raw.githubusercontent.com/bijonguha/git-files/master/1.1.jpg)
 
 where
