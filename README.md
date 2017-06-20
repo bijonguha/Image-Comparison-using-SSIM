@@ -14,3 +14,18 @@ where μx, μy, σx,σy, and σxy are the local means, standard deviations, and 
 
 <h3> MSE </h3>
 <img src="http://www.pyimagesearch.com/wp-content/uploads/2014/06/compare_mse.png">
+
+<h2> Pre-requisites </h2>
+* python 2.7+
+* cv2 (openCV)
+* numpy
+* skimage
+
+<h2> Examples </h2>
+python main.py <path to reference image> <path to query image>
+'''
+python main.py ../data/testimg.jpg ../data/testimg_alter.jpg
+'''
+
+<h3>Results</h3>
+<img src="https://github.com/bijonguha/git-files/blob/master/comparison.png">
